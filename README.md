@@ -22,7 +22,6 @@ In this workshop, we will use a single file to store all design-related constant
 ### Example `design_constants.dart`:
 
 ```dart
-class DesignConstants {
   static const Color primaryColor = Color(0xFF6200EE);
   static const Color secondaryColor = Color(0xFF03DAC5);
   static const Color backgroundColor = Color(0xFFF5F5F5);
@@ -39,4 +38,4 @@ class DesignConstants {
   );
 
   static const double defaultPadding = 16.0;
-}
+
